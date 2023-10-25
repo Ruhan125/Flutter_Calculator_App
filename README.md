@@ -1,16 +1,9 @@
 # codepur_master
 
-A new Flutter project.
+![Screenshot_1698255915](https://github.com/Ruhan125/Flutter_Calculator_App/assets/67371356/06370e54-3742-45e2-8690-fbe611658939)
+![Screenshot_1698255919](https://github.com/Ruhan125/Flutter_Calculator_App/assets/67371356/43b56343-901c-40e9-870a-5c2496e07171)
+![Screenshot_1698255928](https://github.com/Ruhan125/Flutter_Calculator_App/assets/67371356/fe02b509-e504-457f-9a8c-e23709608cdb)
+![Screenshot_1698255939](https://github.com/Ruhan125/Flutter_Calculator_App/assets/67371356/a7fb3c06-8116-4a3b-9e0a-1b1d72deb71b)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
