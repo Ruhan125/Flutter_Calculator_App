@@ -1,4 +1,4 @@
-# codepur_master
+# Calculator
 
 ![Screenshot_1698255915](https://github.com/Ruhan125/Flutter_Calculator_App/assets/67371356/06370e54-3742-45e2-8690-fbe611658939)
 ![Screenshot_1698255919](https://github.com/Ruhan125/Flutter_Calculator_App/assets/67371356/43b56343-901c-40e9-870a-5c2496e07171)
